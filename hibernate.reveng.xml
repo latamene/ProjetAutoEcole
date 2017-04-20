@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="projetair" match-name="administrateur"/>
+  <table-filter match-catalog="projetair" match-name="cours"/>
+  <table-filter match-catalog="projetair" match-name="ecole"/>
+  <table-filter match-catalog="projetair" match-name="eleve"/>
+  <table-filter match-catalog="projetair" match-name="enseigner"/>
+  <table-filter match-catalog="projetair" match-name="gerant"/>
+  <table-filter match-catalog="projetair" match-name="moniteur"/>
+  <table-filter match-catalog="projetair" match-name="permis"/>
+  <table-filter match-catalog="projetair" match-name="role"/>
+</hibernate-reverse-engineering>
